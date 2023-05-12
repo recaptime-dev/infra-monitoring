@@ -23,7 +23,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://status.recaptime.eu.org)
+[**Visit our status website**](https://status.recaptime.eu.org) to see the graphs interactively, or [**see also statuses of third-party services we use at our Instatus page**](https://recaptimesquad.instatus.com).
 
 ## 📄 License
 
