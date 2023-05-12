@@ -1,31 +1,52 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: RecapTime # Your GitHub organization or username, where this repository lives
+repo: infra-monitoring # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: RecapTime.dev homepage
+    url: https://recaptime.eu.org
+  - name: Vaultwarden
+    url: https://vault.recaptime.eu.org/alive
+  - name: golinks
+    url: https://go.recaptime.eu.org/ping
+  - name: Static CDN for our websites
+    url: https://static.rtdevcdn.net.eu.org/ping
+
+user-agent: "RecapTimeBot/2023.05.00 (repo: https://github.com/RecapTime/infra-monitoring; integration: upptime)"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.recaptime.eu.org
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Recap Time Squad Infra
+  introTitle: Are we down or we did broke the DNS again?
+  introMessage: |
+    Monitor the uptime of [Recap Time Squad](https://recaptime.eu.org)'s different services, powered by Upptime and GitHub Actions.
+
+    You can also track incidents and other stuff over at [our Instatus page](https://recaptimesquad.instatus.com).
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Instatus
+      href: https://recaptimesquad.instatus.com
+
+# git config
+commitMessages:
+  commitAuthorName: "Recap Time Bot"
+  commitAuthorEmail: "service-accounts+github@recaptime.tk"
+
+# Other stuff
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: false
+
+# Issue assignees
+assignees:
+  - ajhalili2006
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
