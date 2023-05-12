@@ -3,8 +3,7 @@ name: Maintenance Event
 about: Schedule a work window
 title: "[Scheduled Maintenance] Site down for Maintenance"
 labels: maintenance
-assignees: ''
-
+assignees: RecapTimeSquad
 ---
 
 <!--
@@ -15,3 +14,6 @@ expectedDown: google, hacker-news
 
 **Additional context**
 Who/what/when/where/why is this maintenance happening
+
+**Related links**
+Commit permalink, discussions, etc.
