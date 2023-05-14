@@ -27,8 +27,6 @@ status-website:
 
     You can also track incidents and other stuff over at [our Instatus page](https://recaptimesquad.instatus.com).
   navbar:
-    - title: Status
-      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Instatus
@@ -47,6 +45,10 @@ skipHomepageUpdate: false
 # Issue assignees
 assignees:
   - ajhalili2006
+
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: false
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
