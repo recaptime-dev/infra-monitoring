@@ -12,7 +12,7 @@ sites:
   - name: Static CDN for our websites
     url: https://static.rtdevcdn.net.eu.org/ping
 
-user-agent: "RecapTimeBot/2023.05.00 (repo: https://github.com/RecapTime/infra-monitoring; integration: upptime)"
+user-agent: "RecapTimeBot/2023.05.00 (repo: https://github.com/RecapTime/infra-monitoring; integration: upptime, bot-admin: https://github.com/RecapTime)"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -23,9 +23,7 @@ status-website:
   name: Recap Time Squad Infra
   introTitle: Are we down or we did broke the DNS again?
   introMessage: |
-    Monitor the uptime of [Recap Time Squad](https://recaptime.eu.org)'s different services, powered by Upptime and GitHub Actions.
-
-    You can also track incidents and other stuff over at [our Instatus page](https://recaptimesquad.instatus.com).
+    Monitor the uptime and availability of [Recap Time Squad](https://recaptime.eu.org)'s different services (including internal ones), powered by Upptime and GitHub Actions. You can also track incidents and other stuff over at [our Instatus page](https://recaptimesquad.instatus.com).
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
@@ -45,10 +43,6 @@ skipHomepageUpdate: false
 # Issue assignees
 assignees:
   - ajhalili2006
-
-skipDescriptionUpdate: true
-skipTopicsUpdate: true
-skipHomepageUpdate: false
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
