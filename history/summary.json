@@ -22,19 +22,19 @@
     "url": "https://vault.recaptime.eu.org/alive",
     "icon": "https://icons.duckduckgo.com/ip3/vault.recaptime.eu.org.ico",
     "slug": "vaultwarden",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 880,
-    "timeDay": 5126,
-    "timeWeek": 1377,
-    "timeMonth": 896,
-    "timeYear": 880,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "98.32%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.95%",
+    "time": 871,
+    "timeDay": 2829,
+    "timeWeek": 1271,
+    "timeMonth": 884,
+    "timeYear": 871,
     "dailyMinutesDown": {
-      "2023-06-16": 1
+      "2023-06-16": 24
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://go.recaptime.eu.org/ping",
     "icon": "https://icons.duckduckgo.com/ip3/go.recaptime.eu.org.ico",
     "slug": "golinks",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 524,
-    "timeDay": 4582,
-    "timeWeek": 990,
+    "timeDay": 2556,
+    "timeWeek": 933,
     "timeMonth": 550,
     "timeYear": 524,
     "dailyMinutesDown": {
-      "2023-06-16": 0
+      "2023-06-16": 24
     }
   },
   {
