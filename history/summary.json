@@ -22,10 +22,10 @@
     "url": "https://vault.recaptime.eu.org/alive",
     "icon": "https://icons.duckduckgo.com/ip3/vault.recaptime.eu.org.ico",
     "slug": "vaultwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 880,
@@ -33,16 +33,18 @@
     "timeWeek": 1377,
     "timeMonth": 896,
     "timeYear": 880,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-16": 1
+    }
   },
   {
     "name": "golinks",
     "url": "https://go.recaptime.eu.org/ping",
     "icon": "https://icons.duckduckgo.com/ip3/go.recaptime.eu.org.ico",
     "slug": "golinks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 990,
     "timeMonth": 550,
     "timeYear": 524,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-16": 0
+    }
   },
   {
     "name": "Static CDN for our websites",
