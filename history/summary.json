@@ -22,9 +22,9 @@
     "url": "https://vault.recaptime.eu.org/alive",
     "icon": "https://icons.duckduckgo.com/ip3/vault.recaptime.eu.org.ico",
     "slug": "vaultwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
@@ -34,6 +34,7 @@
     "timeMonth": 859,
     "timeYear": 859,
     "dailyMinutesDown": {
+      "2023-06-21": 0,
       "2023-06-16": 24
     }
   },
