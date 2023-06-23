@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 251,
-    "timeDay": 182,
-    "timeWeek": 282,
-    "timeMonth": 240,
+    "timeDay": 241,
+    "timeWeek": 278,
+    "timeMonth": 241,
     "timeYear": 251,
     "dailyMinutesDown": {}
   },
@@ -24,15 +24,15 @@
     "slug": "vaultwarden",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "98.91%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.93%",
-    "time": 856,
-    "timeDay": 798,
-    "timeWeek": 1232,
-    "timeMonth": 866,
-    "timeYear": 856,
+    "time": 857,
+    "timeDay": 922,
+    "timeWeek": 765,
+    "timeMonth": 867,
+    "timeYear": 857,
     "dailyMinutesDown": {
       "2023-06-21": 16,
       "2023-06-16": 24
@@ -49,11 +49,11 @@
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 515,
-    "timeDay": 624,
-    "timeWeek": 986,
-    "timeMonth": 555,
-    "timeYear": 515,
+    "time": 512,
+    "timeDay": 371,
+    "timeWeek": 459,
+    "timeMonth": 553,
+    "timeYear": 512,
     "dailyMinutesDown": {
       "2023-06-16": 24
     }
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 358,
-    "timeDay": 366,
-    "timeWeek": 346,
-    "timeMonth": 342,
-    "timeYear": 358,
+    "time": 359,
+    "timeDay": 385,
+    "timeWeek": 367,
+    "timeMonth": 340,
+    "timeYear": 359,
     "dailyMinutesDown": {}
   }
 ]
