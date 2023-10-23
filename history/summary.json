@@ -26,7 +26,7 @@
     "uptime": "97.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.23%",
+    "uptimeMonth": "93.29%",
     "uptimeYear": "97.72%",
     "time": 836,
     "timeDay": 713,
@@ -71,19 +71,19 @@
     "url": "https://static.rtdevcdn.net.eu.org/ping",
     "icon": "https://icons.duckduckgo.com/ip3/static.rtdevcdn.net.eu.org.ico",
     "slug": "static-cdn-for-our-websites",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 358,
-    "timeDay": 357,
-    "timeWeek": 364,
+    "timeDay": 356,
+    "timeWeek": 363,
     "timeMonth": 362,
     "timeYear": 358,
     "dailyMinutesDown": {
-      "2023-10-23": 0
+      "2023-10-23": 25
     }
   }
 ]
