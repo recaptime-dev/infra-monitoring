@@ -22,7 +22,7 @@
     "url": "https://vault.recaptime.eu.org/alive",
     "icon": "https://icons.duckduckgo.com/ip3/vault.recaptime.eu.org.ico",
     "slug": "vaultwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "98.11%",
     "uptimeDay": "98.62%",
     "uptimeWeek": "99.61%",
