@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 288,
-    "timeDay": 257,
-    "timeWeek": 1033,
-    "timeMonth": 439,
-    "timeYear": 292,
+    "time": 289,
+    "timeDay": 667,
+    "timeWeek": 1098,
+    "timeMonth": 453,
+    "timeYear": 293,
     "dailyMinutesDown": {}
   },
   {
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "98.92%",
-    "time": 786,
-    "timeDay": 287,
-    "timeWeek": 459,
-    "timeMonth": 441,
+    "time": 785,
+    "timeDay": 570,
+    "timeWeek": 495,
+    "timeMonth": 444,
     "timeYear": 788,
     "dailyMinutesDown": {
       "2024-05-29": 21,
@@ -51,8 +51,7 @@
       "2023-09-06": 21,
       "2023-07-31": 1020,
       "2023-07-30": 450,
-      "2023-06-21": 16,
-      "2023-06-16": 24
+      "2023-06-21": 16
     }
   },
   {
@@ -66,14 +65,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 432,
-    "timeDay": 476,
-    "timeWeek": 446,
+    "time": 431,
+    "timeDay": 379,
+    "timeWeek": 439,
     "timeMonth": 410,
     "timeYear": 434,
-    "dailyMinutesDown": {
-      "2023-06-16": 24
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Static CDN for our websites",
@@ -87,9 +84,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 366,
-    "timeDay": 365,
-    "timeWeek": 926,
-    "timeMonth": 460,
+    "timeDay": 377,
+    "timeWeek": 943,
+    "timeMonth": 456,
     "timeYear": 367,
     "dailyMinutesDown": {
       "2023-10-23": 25
