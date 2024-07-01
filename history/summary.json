@@ -76,9 +76,9 @@
     "url": "https://static.rtdevcdn.net.eu.org/ping",
     "icon": "https://icons.duckduckgo.com/ip3/static.rtdevcdn.net.eu.org.ico",
     "slug": "static-cdn-for-our-websites",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -88,6 +88,7 @@
     "timeMonth": 911,
     "timeYear": 401,
     "dailyMinutesDown": {
+      "2024-07-01": 0,
       "2023-10-23": 25
     }
   }
