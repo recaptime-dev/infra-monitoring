@@ -4,18 +4,20 @@
     "url": "https://recaptime.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/recaptime.eu.org.ico",
     "slug": "recap-time-dev-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 349,
-    "timeDay": 5219,
-    "timeWeek": 1113,
-    "timeMonth": 857,
-    "timeYear": 380,
-    "dailyMinutesDown": {}
+    "timeDay": 2763,
+    "timeWeek": 1013,
+    "timeMonth": 839,
+    "timeYear": 379,
+    "dailyMinutesDown": {
+      "2024-08-23": 0
+    }
   },
   {
     "name": "Vaultwarden",
