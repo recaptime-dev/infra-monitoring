@@ -4,19 +4,19 @@
     "url": "https://recaptime.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/recaptime.eu.org.ico",
     "slug": "recap-time-dev-homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 349,
-    "timeDay": 2763,
-    "timeWeek": 1013,
-    "timeMonth": 839,
-    "timeYear": 379,
+    "time": 350,
+    "timeDay": 2134,
+    "timeWeek": 997,
+    "timeMonth": 840,
+    "timeYear": 381,
     "dailyMinutesDown": {
-      "2024-08-23": 0
+      "2024-08-23": 10
     }
   },
   {
