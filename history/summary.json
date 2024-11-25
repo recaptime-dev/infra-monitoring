@@ -49,18 +49,20 @@
     "url": "https://go.recaptime.eu.org/ping",
     "icon": "https://icons.duckduckgo.com/ip3/go.recaptime.eu.org.ico",
     "slug": "golinks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 547,
-    "timeDay": 637,
-    "timeWeek": 504,
-    "timeMonth": 819,
-    "timeYear": 592,
-    "dailyMinutesDown": {}
+    "time": 548,
+    "timeDay": 636,
+    "timeWeek": 520,
+    "timeMonth": 813,
+    "timeYear": 593,
+    "dailyMinutesDown": {
+      "2024-11-25": 0
+    }
   },
   {
     "name": "Static CDN for our websites",
