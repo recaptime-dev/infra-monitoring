@@ -1,7 +1,7 @@
 url: https://go.recaptime.eu.org/ping
-status: up
-code: 200
-responseTime: 637
-lastUpdated: 2024-11-24T23:18:34.535Z
+status: down
+code: 404
+responseTime: 634
+lastUpdated: 2024-11-25T11:25:00.899Z
 startTime: 2023-05-12T14:07:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
