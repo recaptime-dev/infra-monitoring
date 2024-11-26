@@ -4,26 +4,26 @@ repo: infra-monitoring # The name of this repository
 
 sites:
   - name: RecapTime.dev homepage
-    url: https://recaptime.eu.org
+    url: https://recaptime.dev
   - name: Vaultwarden
-    url: https://vault.recaptime.eu.org/alive
+    url: https://vault.recaptime.dev/alive
   - name: golinks
-    url: https://go.recaptime.eu.org/ping
+    url: https://go.recaptime.dev/ping
   - name: Static CDN for our websites
     url: https://static.rtdevcdn.net.eu.org/ping
 
-user-agent: "RecapTimeBot/2023.05.00 (repo: https://github.com/RecapTime/infra-monitoring; integration: upptime, bot-admin: https://github.com/RecapTime)"
+user-agent: "RecapTimeBot/2024.11.26 (repo: https://github.com/recaptime-dev/infra-monitoring; integration: upptime, bot-admin: https://github.com/recaptime-dev)"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.recaptime.eu.org
+  cname: status.recaptime.dev
   # baseUrl: /your-repo-name
   logoUrl: https://avatars.githubusercontent.com/u/55875459?s=148
   name: Recap Time Squad Infra
   introTitle: Are we down or we did broke the DNS again?
   introMessage: |
-    Monitor the uptime and availability of [Recap Time Squad](https://recaptime.eu.org)'s different services (including internal ones), powered by Upptime and GitHub Actions. You can also track incidents and other stuff over at [our Instatus page](https://recaptimesquad.instatus.com).
+    Monitor the uptime and availability of [Recap Time Squad](https://recaptime.dev)'s different services (including internal ones), powered by Upptime and GitHub Actions. You can also track incidents and other stuff over at [our Instatus page](https://recaptimesquad.instatus.com).
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
@@ -33,7 +33,7 @@ status-website:
 # git config
 commitMessages:
   commitAuthorName: "Recap Time Bot"
-  commitAuthorEmail: "service-accounts+github@recaptime.tk"
+  commitAuthorEmail: "service-accounts+github@crew.recaptime.dev"
 
 # Other stuff
 skipDescriptionUpdate: true
