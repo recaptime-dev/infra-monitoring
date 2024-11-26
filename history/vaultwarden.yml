@@ -1,7 +1,7 @@
-url: https://vault.recaptime.eu.org/alive
+url: https://vault.recaptime.dev/alive
 status: up
 code: 200
-responseTime: 407
-lastUpdated: 2024-11-25T23:18:42.508Z
+responseTime: 350
+lastUpdated: 2024-11-26T06:30:51.097Z
 startTime: 2023-05-12T14:07:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
