@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 377,
-    "timeDay": 113,
-    "timeWeek": 169,
-    "timeMonth": 189,
-    "timeYear": 402,
+    "timeDay": 146,
+    "timeWeek": 166,
+    "timeMonth": 190,
+    "timeYear": 401,
     "dailyMinutesDown": {}
   },
   {
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/vault.recaptime.dev.ico",
     "slug": "vaultwarden",
     "status": "up",
-    "uptime": "99.12%",
+    "uptime": "99.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.38%",
     "time": 733,
-    "timeDay": 795,
-    "timeWeek": 619,
-    "timeMonth": 678,
+    "timeDay": 588,
+    "timeWeek": 634,
+    "timeMonth": 677,
     "timeYear": 777,
     "dailyMinutesDown": {
       "2025-04-08": 116,
@@ -47,8 +47,7 @@
       "2025-01-23": 553,
       "2025-01-21": 61,
       "2025-01-13": 17,
-      "2024-05-29": 21,
-      "2024-04-19": 25
+      "2024-05-29": 21
     }
   },
   {
@@ -63,10 +62,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 536,
-    "timeDay": 160,
-    "timeWeek": 368,
-    "timeMonth": 410,
-    "timeYear": 573,
+    "timeDay": 458,
+    "timeWeek": 374,
+    "timeMonth": 415,
+    "timeYear": 574,
     "dailyMinutesDown": {
       "2024-11-26": 383,
       "2024-11-25": 755
@@ -84,10 +83,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.69%",
     "time": 855,
-    "timeDay": 827,
-    "timeWeek": 2159,
-    "timeMonth": 1685,
-    "timeYear": 1023,
+    "timeDay": 296,
+    "timeWeek": 1545,
+    "timeMonth": 1546,
+    "timeYear": 1022,
     "dailyMinutesDown": {
       "2025-04-15": 19,
       "2024-12-23": 31,
