@@ -1,7 +1,7 @@
 url: https://vault.recaptime.dev/alive
-status: up
-code: 200
-responseTime: 613
-lastUpdated: 2025-05-21T23:19:14.734Z
+status: down
+code: 502
+responseTime: 639
+lastUpdated: 2025-05-22T15:36:07.432Z
 startTime: 2023-05-12T14:07:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
