@@ -1,7 +1,7 @@
 url: https://go.recaptime.dev/ping
-status: down
-code: 500
-responseTime: 6039
-lastUpdated: 2025-06-12T18:17:02.302Z
+status: up
+code: 200
+responseTime: 603
+lastUpdated: 2025-06-12T20:34:06.087Z
 startTime: 2023-05-12T14:07:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
