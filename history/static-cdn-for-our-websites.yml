@@ -1,7 +1,7 @@
 url: https://static.rtdevcdn.net.eu.org/ping
-status: down
-code: 500
-responseTime: 321
-lastUpdated: 2025-11-18T15:24:12.468Z
+status: up
+code: 200
+responseTime: 539
+lastUpdated: 2025-11-18T15:43:41.091Z
 startTime: 2023-05-12T14:07:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
