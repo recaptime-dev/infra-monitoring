@@ -45,4 +45,4 @@ jobs:
           publish_dir: "site/status-page/__sapper__/export/"
           force_orphan: "false"
           user_name: "Recap Time Bot"
-          user_email: "service-accounts+github@crew.recaptime.dev"
+          user_email: "github@bots.recaptime.dev"
