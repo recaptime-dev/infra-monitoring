@@ -9,8 +9,18 @@ sites:
     url: https://vault.recaptime.dev/alive
   - name: golinks
     url: https://go.recaptime.dev/ping
+  - name: Org wiki
+    url: https://hq.recaptime.dev/w/api.php?action=help&format=json&errorformat=wikitext&wrap=1&formatversion=2
+    slug: miraheze
+  - name: Phroge
+    url: https://issues.recaptime.dev
+    slug: phorge
   - name: Static CDN for our websites
     url: https://static.rtdevcdn.net.eu.org/ping
+    slug: static-cdn
+  - name: Static CDN for Third Party brand icons
+    url: https://thirdparty.brandkit.rtdevcdn.net.eu.org
+    slug: 3pbrandkit-cdn
 
 user-agent: "RecapTimeBot/2024.11.26 (repo: https://github.com/recaptime-dev/infra-monitoring; integration: upptime, bot-admin: https://github.com/recaptime-dev)"
 
@@ -33,7 +43,7 @@ status-website:
 # git config
 commitMessages:
   commitAuthorName: "Recap Time Bot"
-  commitAuthorEmail: "service-accounts+github@crew.recaptime.dev"
+  commitAuthorEmail: "github@bots.recaptime.dev"
 
 # Other stuff
 skipDescriptionUpdate: true
