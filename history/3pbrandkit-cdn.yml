@@ -1,7 +1,7 @@
 url: https://thirdparty.brandkit.rtdevcdn.net.eu.org
-status: up
-code: 200
-responseTime: 1154
-lastUpdated: 2026-03-03T23:29:19.034Z
+status: down
+code: 503
+responseTime: 621
+lastUpdated: 2026-03-04T06:04:44.753Z
 startTime: 2026-02-25T05:44:33.187Z
 generator: Upptime <https://github.com/upptime/upptime>
