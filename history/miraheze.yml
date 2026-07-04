@@ -1,7 +1,7 @@
 url: https://hq.recaptime.dev/w/api.php?action=help&format=json&errorformat=wikitext&wrap=1&formatversion=2
-status: down
-code: 502
-responseTime: 118
-lastUpdated: 2026-07-04T11:43:58.470Z
+status: up
+code: 200
+responseTime: 973
+lastUpdated: 2026-07-04T12:48:30.171Z
 startTime: 2026-02-25T05:44:30.211Z
 generator: Upptime <https://github.com/upptime/upptime>
