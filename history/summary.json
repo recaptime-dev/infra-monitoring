@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 637,
     "dailyMinutesDown": {
-      "2026-08-18": 244,
+      "2026-08-18": 283,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -530,7 +530,7 @@
       "2026-05-11": 255,
       "2026-05-10": 354,
       "2026-05-14": 251,
-      "2026-08-18": 244,
+      "2026-08-18": 283,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -645,20 +645,20 @@
     "url": "https://thirdparty.brandkit.rtdevcdn.net.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/thirdparty.brandkit.rtdevcdn.net.eu.org.ico",
     "slug": "3pbrandkit-cdn",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 1218,
-    "timeDay": 813,
-    "timeWeek": 1133,
-    "timeMonth": 1602,
-    "timeYear": 1218,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.27%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.96%",
+    "time": 1215,
+    "timeDay": 745,
+    "timeWeek": 1076,
+    "timeMonth": 1573,
+    "timeYear": 1215,
     "dailyMinutesDown": {
       "2026-03-04": 59,
-      "2026-08-18": 0
+      "2026-08-18": 39
     }
   }
 ]
