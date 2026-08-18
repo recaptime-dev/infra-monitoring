@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 637,
     "dailyMinutesDown": {
-      "2026-08-18": 43,
+      "2026-08-18": 244,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -455,11 +455,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/issues.recaptime.dev.ico",
     "slug": "phorge",
     "status": "down",
-    "uptime": "15.59%",
+    "uptime": "15.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "15.59%",
+    "uptimeYear": "15.57%",
     "time": 314,
     "timeDay": 36,
     "timeWeek": 76,
@@ -530,7 +530,7 @@
       "2026-05-11": 255,
       "2026-05-10": 354,
       "2026-05-14": 251,
-      "2026-08-18": 43,
+      "2026-08-18": 244,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -645,9 +645,9 @@
     "url": "https://thirdparty.brandkit.rtdevcdn.net.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/thirdparty.brandkit.rtdevcdn.net.eu.org.ico",
     "slug": "3pbrandkit-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -657,7 +657,8 @@
     "timeMonth": 1602,
     "timeYear": 1218,
     "dailyMinutesDown": {
-      "2026-03-04": 59
+      "2026-03-04": 59,
+      "2026-08-18": 0
     }
   }
 ]
