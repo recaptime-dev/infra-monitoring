@@ -5,16 +5,20 @@ repo: infra-monitoring # The name of this repository
 sites:
   - name: RecapTime.dev homepage
     url: https://recaptime.dev
-  - name: Vaultwarden
-    url: https://vault.recaptime.dev/alive
+  # Vaultwarden: no longer self-hosted, moved to 1Password for Open-source Teams.
+  # - name: Vaultwarden
+  #   url: https://vault.recaptime.dev/alive
   - name: golinks
-    url: https://go.recaptime.dev/ping
+    url: https://go.recaptime.dev/dashboard/__validate__
+    expectedStatusCodes:
+      - 200
   - name: Org wiki
     url: https://hq.recaptime.dev/w/api.php?action=help&format=json&errorformat=wikitext&wrap=1&formatversion=2
     slug: miraheze
-  - name: Phroge
-    url: https://issues.recaptime.dev
-    slug: phorge
+  # Phroge: the Cloudflare tunnel is off while the homelab is down for maintenance.
+  # - name: Phroge
+  #   url: https://issues.recaptime.dev
+  #   slug: phorge
   - name: Static CDN for our websites
     url: https://static.rtdevcdn.net.eu.org/ping
     slug: static-cdn
